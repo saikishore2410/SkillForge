@@ -1,0 +1,6 @@
+{
+  "name": "SkillForge Career SuperApp",
+  "description": "AI-powered tech career roadmaps, interactive code playgrounds, mock interview coach, and concept cheat sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
